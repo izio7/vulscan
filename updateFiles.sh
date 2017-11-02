@@ -9,14 +9,14 @@
 ## the files in the vulscan folder.
 ##
 declare -a FILES=(
-    "http://www.computec.ch/projekte/vulscan/download/cve.csv"
-    "http://www.computec.ch/projekte/vulscan/download/exploitdb.csv"
-    "http://www.computec.ch/projekte/vulscan/download/openvas.csv"
-    "http://www.computec.ch/projekte/vulscan/download/osvdb.csv"
-    "http://www.computec.ch/projekte/vulscan/download/scipvuldb.csv"
-    "http://www.computec.ch/projekte/vulscan/download/securityfocus.csv"
-    "http://www.computec.ch/projekte/vulscan/download/securitytracker.csv"
-    "http://www.computec.ch/projekte/vulscan/download/xforce.csv"
+    "https://www.computec.ch/projekte/vulscan/download/cve.csv"
+    "https://www.computec.ch/projekte/vulscan/download/exploitdb.csv"
+    "https://www.computec.ch/projekte/vulscan/download/openvas.csv"
+    "https://www.computec.ch/projekte/vulscan/download/osvdb.csv"
+    "https://www.computec.ch/projekte/vulscan/download/scipvuldb.csv"
+    "https://www.computec.ch/projekte/vulscan/download/securityfocus.csv"
+    "https://www.computec.ch/projekte/vulscan/download/securitytracker.csv"
+    "https://www.computec.ch/projekte/vulscan/download/xforce.csv"
 )
 
 UPDATED=false
